@@ -1,0 +1,15 @@
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\bin\Debug\net6.0\CCP Test Environment.exe
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\bin\Debug\net6.0\CCP Test Environment.deps.json
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\bin\Debug\net6.0\CCP Test Environment.runtimeconfig.json
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\bin\Debug\net6.0\CCP Test Environment.dll
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\bin\Debug\net6.0\CCP Test Environment.pdb
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.csproj.AssemblyReference.cache
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.AssemblyInfoInputs.cache
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.AssemblyInfo.cs
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.csproj.CoreCompileInputs.cache
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.dll
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\refint\CCP Test Environment.dll
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.pdb
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\CCP Test Environment.genruntimeconfig.cache
+C:\Users\PBowden\source\repos\CCP Test Environment\CCP Test Environment\obj\Debug\net6.0\ref\CCP Test Environment.dll

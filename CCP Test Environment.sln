@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33205.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CCP Test Environment", "CCP Test Environment\CCP Test Environment.csproj", "{BB2D3651-D99C-406F-A89F-274A45D657C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB2D3651-D99C-406F-A89F-274A45D657C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB2D3651-D99C-406F-A89F-274A45D657C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB2D3651-D99C-406F-A89F-274A45D657C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB2D3651-D99C-406F-A89F-274A45D657C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F429CE8F-9953-464D-98A4-A49BADD8861A}
+	EndGlobalSection
+EndGlobal
